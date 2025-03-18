@@ -47,11 +47,6 @@ int main(){
             default:
             cout << "Pilihan Salah, pilihan harus di antara 1-3." << endl;
             break;
-
-
-
         }
     } while (pilihan != 3);
-    
-
 }
